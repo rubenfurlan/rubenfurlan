@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/rubenfurlan/rubenfurlan/raw/main/jocker.gif)
+![Alt Text](https://github.com/rubenfurlan/rubenfurlan/raw/main/pirata.gif)
 
 <!--
 **rubenfurlan/rubenfurlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
